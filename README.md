@@ -45,3 +45,6 @@ prime-trade-sentiment-analysis/
 ├── requirements.txt
 └── insights_report.pdf
 ```
+## Note
+
+The original Hyperliquid historical dataset exceeds GitHub web upload limits. The analysis notebook was executed using the provided dataset, and all outputs are included in the notebook.
